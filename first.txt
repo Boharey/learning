@@ -1,2 +1,0 @@
-this is my first file that i made after making this repo learning for the first time.
-okay now i have added a new line here and this is my first commit after makking this file.
